@@ -1,5 +1,0 @@
-Flask
-google-api-python-client
-nltk
-requests
-gunicorn
